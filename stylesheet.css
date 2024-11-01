@@ -6,6 +6,7 @@ html {
 
 body {
     background-image: linear-gradient(290deg, #55df98, #455b97);
+    height: 97vh;
 }
 p {
     font-size: 20px;
@@ -18,8 +19,8 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    gap: 2rem;
+    height: 97vh;
+    gap: 1rem;
 }
 .holder {
     flex: 1;
